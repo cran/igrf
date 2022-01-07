@@ -1,0 +1,16 @@
+da6bb6ef0db1873c6aefb9999e6afb1b *DESCRIPTION
+f4b308cf0ba8fe810ca87dad29e35ce7 *NAMESPACE
+82bae805e70ada67be8a8c69c5d5cea1 *R/igrf.R
+731fb875080296d34fb6df8b93173414 *R/igrf_grid.R
+fd242207ae03022c1ff55658d4905d6b *build/vignette.rds
+65355e5d8ff953ee2fdbacf585db7a2f *inst/doc/igrf.R
+200d00467598a1f7c025c919929a0f7d *inst/doc/igrf.Rmd
+9c4283831825222bc789ecdd2c3b3ed9 *inst/doc/igrf.html
+5e9a6947090d77ff3fc7c3a0a0194538 *man/igrf.Rd
+cff95d62584bbec2ad32ce3273cc9be3 *man/igrf_grid.Rd
+2c02aa6ddd1323c4372a548de1923720 *src/Makevars
+9d11fe503b0f297a1b09da1db82590f8 *src/igrf13.f
+4603ca3a0c4a57aa20662c56ea85bd9a *src/wrapper.c
+3d3ac96b80ece239208922f4411bd331 *tests/testthat.r
+e2f8acf6e3ba6c9cb475b18063f85621 *tests/testthat/test_igrf.R
+200d00467598a1f7c025c919929a0f7d *vignettes/igrf.Rmd
