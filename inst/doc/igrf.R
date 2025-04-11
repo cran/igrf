@@ -4,7 +4,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
-
 ## -----------------------------------------------------------------------------
 # load the library
 library(igrf)
@@ -46,7 +45,8 @@ ggplot(grid) +
     breaks = MakeBreaks(10)
   ) +
   geom_sf(
-    data = coast) +
+    data = coast
+  ) +
   scale_fill_divergent(
     name = "declination"
   ) +
